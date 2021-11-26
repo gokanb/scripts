@@ -28,7 +28,7 @@ while True:
 
 
 nm= nmap.PortScanner()
-#we;re looping over all of the ports in the specified range.
+#we're looping over all of the ports in the specified range.
 
 for port in range(port_min, port_max + 1):
     try:
