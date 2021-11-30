@@ -1,3 +1,3 @@
 # Scripts
 
-first thing firt
+first thing first
