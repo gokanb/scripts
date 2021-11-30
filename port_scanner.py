@@ -21,5 +21,5 @@ def portScan(port):
 
 for port in range(1, 1000):
     portScan(port)
-    #this will allow the scannng to take place in the assigned ip addr and a range of ports between 1-100!
+    #this will allow the scanning to take place in the assigned ip addr and a range of ports between 1-100!
 
